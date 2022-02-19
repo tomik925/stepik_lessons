@@ -1,2 +1,2 @@
 # stepik_lessons
-a few words about my project
+Test repository for stepik course of automation testing
